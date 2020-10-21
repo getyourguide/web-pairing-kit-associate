@@ -2,7 +2,7 @@
 
 We will develop a web application with the idea of getting to know your knowledge of different topics.
 
-The excerice will have two parts.
+The exercise will have two parts.
 
 - Take-home exercise
 - Live-pairing exercise
