@@ -61,7 +61,7 @@ During the live-pairing exercise, you will use the endpoint that you developed o
   - Using React CLI, run the following to start an app:
     - `npx create-react-app search-app`
 - You can choose to use a different framework or no framework at all, but we expect you to be ready to start developing and not spend time on setting up an environment.
-- Only the basic Frontend structure should be done at home. It could be the React, Vue, or framework of your choice "Hello World!" page. We expect you to start writing the Frontend components at the Live-pairing exercise moment.
+- Only the basic Frontend structure should be done at home. It could be the React, Vue, or framework of your choice "Hello World!" app. We expect you to start writing the Frontend components at the Live-pairing exercise moment.
 - The interviewers will guide you throughout the Live-pairing exercise and will address any questions.
 
 ## Live-pairing exercise requirements
@@ -83,7 +83,7 @@ To reiterate, these are the things you should prepare at home before our live-pa
   - Using React CLI, run the following to start an app:
     - `npx create-react-app search-app`
 - You can choose to use a different framework or no framework at all, but we expect you to be ready to start developing and not spend time on setting up an environment.
-- Only the basic Frontend structure should be done at home. It could be the React, Vue, or framework of your choice "Hello World!" page. We expect you to start writing the Frontend components at the Live-pairing exercise moment.
+- Only the basic Frontend structure should be done at home. It could be the React, Vue, or framework of your choice "Hello World!" app. We expect you to start writing the Frontend components at the Live-pairing exercise moment.
 
 # Important!
 
