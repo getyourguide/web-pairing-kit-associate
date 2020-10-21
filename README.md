@@ -29,7 +29,7 @@ Use the tools, libraries or frameworks you think are appropriate with the follow
 
 - Using CLI creator tools that setup a build toolchain is fine (vue-cli, create-react-app, etc).
 - Please don't use creator apps or starter kits that setup a whole code structure for you. We want to see what you come up with.
-- We'd prefer to see actual CSS code (or a CSS in JS solution) rather than usage of a UI library.
+- We'd prefer to see actual CSS code (or a CSS in JS solution) rather than the usage of a UI library like Bootstrap, Foundations, or Tailwind CSS.
 
 # Take-home exercise
 
